@@ -1,0 +1,15 @@
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\bin\Debug\net6.0\dotnetTask.exe
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\bin\Debug\net6.0\dotnetTask.deps.json
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\bin\Debug\net6.0\dotnetTask.runtimeconfig.json
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\bin\Debug\net6.0\dotnetTask.dll
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\bin\Debug\net6.0\dotnetTask.pdb
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\dotnetTask.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\dotnetTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\dotnetTask.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\dotnetTask.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\dotnetTask.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\dotnetTask.dll
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\refint\dotnetTask.dll
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\dotnetTask.pdb
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\dotnetTask.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\progr_seminar\dotnetTask\obj\Debug\net6.0\ref\dotnetTask.dll
