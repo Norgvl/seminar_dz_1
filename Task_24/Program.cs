@@ -1,0 +1,16 @@
+﻿Console.Clear();
+int a = int.Parse(Console.ReadLine());
+
+int Count(int a)
+{
+    int k = 0;
+    for (int i = 1; i <= a; i++)
+    {
+        k = k + i;
+        
+    }
+    return k;
+}
+
+int b = Count(a);
+Console.WriteLine(b);
